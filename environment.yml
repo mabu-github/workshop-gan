@@ -1,0 +1,7 @@
+name: workshop_gan
+dependencies:
+  - python=3.7
+  - cython
+  - pip=21.0.1
+  - pip:
+      - -r file:requirements.txt

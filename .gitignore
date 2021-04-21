@@ -12,3 +12,7 @@ ipython_config.py
 
 # PyCharm
 /.idea
+
+# Conda
+/environment-nogpu.yml
+/condaenv*
